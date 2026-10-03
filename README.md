@@ -1,5 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">  Hi there 
 
+I'm Youssef, a beginner web developer who loves building things for the web. I'm currently learning Python and data science, and I enjoy turning ideas into small, working projects. Feel free to reach out through the links below.
+
 <!--
 **youssefislam6011-rgb/youssefislam6011-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
