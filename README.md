@@ -1,4 +1,4 @@
-<img src="[https://giphy.com/gifs/3d-emoji-emoticon-l1IB22SuYeEMMPTguL](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="24px">  Hi there 
+<img src="[[https://giphy.com/gifs/3d-emoji-emoticon-l1IB22SuYeEMMPTguL](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z)" width="24px">  Hi there 
 
 <!--
 **youssefislam6011-rgb/youssefislam6011-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
